@@ -1,10 +1,16 @@
 _repo: The-Theory-of-Spectra-and-Atomic-Constitution-Three-Essays_47464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bohr, Niels (Niels Henrik David)
     gutenberg_agent_id: '44327'
     url: http://www.gutenberg.org/2009/agents/44327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47464#The-Theory-of-Spectra-and-Atomic-Constitution-Three-Essays
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2014-11-26'
 gutenberg_type: Text
